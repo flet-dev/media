@@ -24,7 +24,7 @@
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      inkscape:zoom="0.84096521"
-     inkscape:cx="273.49526"
+     inkscape:cx="272.90071"
      inkscape:cy="413.21567"
      inkscape:window-width="1728"
      inkscape:window-height="980"
@@ -109,7 +109,10 @@
          id="path2-9"
          style="stroke-width:0.216786" /></g><g
        id="g17"
-       transform="matrix(0.54482552,0,0,0.54482552,-9.1085818,22.694955)"><circle
+       transform="matrix(0.54482552,0,0,0.54482552,-9.1085818,22.694955)"
+       inkscape:export-filename="../../../../Documents/flet-sensor-services.png"
+       inkscape:export-xdpi="192"
+       inkscape:export-ydpi="192"><circle
          style="fill:#ffffff;fill-opacity:1;stroke:#cbcbcb;stroke-width:1.709;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1"
          id="path1-8"
          cx="84.743874"
