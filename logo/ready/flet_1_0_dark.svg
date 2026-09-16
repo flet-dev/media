@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   viewBox="0 0 1844.0562 510"
+   viewBox="0 0 2450.0234 510"
    role="img"
    aria-label="FLET"
    version="1.1"
    id="svg4"
-   width="1844.0562"
+   width="2450.0234"
    height="510"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg"
@@ -27,7 +27,7 @@
   </metadata>
   <g
      id="g18-6-8"
-     transform="matrix(1.2685136,0,0,1.2685136,-42.903258,771.8591)">
+     transform="matrix(1.2685136,0,0,1.2685136,-42.903266,771.8591)">
     <path
        fill="#0098da"
        fill-opacity="0.639"
@@ -44,6 +44,18 @@
        style="display:inline;mix-blend-mode:normal;fill:#8c0075;fill-opacity:1;stroke-width:2.23817;stroke-dasharray:none"
        d="m 199.45908,-395.44598 c -7.59976,-8.41314 -7.59976,-15.60001 0,-24.01315 12.56302,-13.90733 50.05781,-43.72203 50.05781,-43.72203 -2.1637,18.27023 -3.20379,37.0672 -3.13658,55.7286 -0.0672,18.66141 0.97288,37.45838 3.13658,55.72861 0,0 -37.49479,-29.8147 -50.05781,-43.72203 z" />
   </g>
+  <path
+     d="m 1934.9096,115 h 90 v 280 h -40 V 155 h -50 z"
+     id="path-i-7"
+     style="fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:10.2275;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 2064.9096,355 h 40 v 40 h -40 z"
+     id="path-i-8-3"
+     style="fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:10.2275;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
+  <path
+     d="m 2224.9096,115 h 130 c 50,0 90,40 90,90 v 100 c 0,50 -40,90 -90,90 h -130 c -50,0 -90,-40 -90,-90 V 205 c 0,-50 40,-90 90,-90 z m 0,40 c -25,0 -50,25 -50,50 v 100 c 0,25 25,50 50,50 h 130 c 25,0 50,-25 50,-50 V 205 c 0,-25 -25,-50 -50,-50 z"
+     id="path-o-4-7"
+     style="fill:#b3b3b3;fill-opacity:1;stroke:#b3b3b3;stroke-width:10.2275;stroke-linecap:round;stroke-linejoin:round;stroke-dasharray:none;stroke-opacity:1" />
   <g
      id="g5-3-3"
      transform="matrix(1.0031894,0,0,1.0031894,134.27372,53.9156)"
